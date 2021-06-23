@@ -6,5 +6,6 @@ Esse é o repositório da aula da DIO com o @felipeaguiarcode, na qual a propost
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JQuery](https://jquery.com/)
+* [JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🚀 Let's code! 🚀
