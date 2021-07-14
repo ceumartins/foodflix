@@ -25,6 +25,7 @@ header .container{
 
 header .logo{
     margin-left: 5px;
+    display: inline-block;
     color: linear-gradient(225deg, var(--vermelho) 0%, yellow 100%);
     font-family: 'Arial Black', Times;
     font-size: 40px;
